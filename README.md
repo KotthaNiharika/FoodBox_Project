@@ -49,8 +49,6 @@ This project aims to design and develop an E-commerce website that lets people s
 - AWS RDS: to upload the database online.
 - Jenkins: to build the project from GitHub.
 - GitHub: to upload the source code of the project.
-- MobaXterm: to the instance from Windows OS.
-- Selenium: for automation and testing.
 - Apache: to use it as a web server.
 - HTML/CSS: to create and format the content of the pages.
 - Bootstrap: to use some CSS and JavaScript designs.
